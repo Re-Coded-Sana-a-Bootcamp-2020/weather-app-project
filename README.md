@@ -1,6 +1,7 @@
 # Weather App
 
-This website is fetching data from [here](https://www.metaweather.com/api/) 
+This website is fetching data from [here](https://www.metaweather.com/api/),
+If you face issue fetching the data maybe [this](https://stackoverflow.com/questions/43262121/trying-to-use-fetch-and-pass-in-mode-no-cors/43268098) helps.
 
 ## Requirements
 
